@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋, i'm Yanqing An, BounceDude is my nickname.
+Happy to see you here, i'm interested in Intelligence and user modeling.
+I'm dong some project now including Legal Ethic Assistant.
+Enjoy your self and welcome to contact with me anyq@mail.ustc.edu.cn.
 
 <!--
 **BounceDude/BounceDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 你的介绍
-Hi
 
-## 项目
-ProtoSYS
-
-## 技能
-coding
-
-## 联系方式
-anyq@mail.ustc.edu.cn
